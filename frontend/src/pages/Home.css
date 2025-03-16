@@ -1,0 +1,17 @@
+/* src/pages/Home.css */
+.home-container {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .home-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #2d6a4f;
+  }
+  
+  .home-text {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  

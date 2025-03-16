@@ -1,0 +1,15 @@
+/* src/pages/FarmerDetails.css */
+.chat-button {
+    display: inline-block;
+    background: #2d6a4f;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  
+  .chat-button:hover {
+    background: #1b4332;
+  }
+  
