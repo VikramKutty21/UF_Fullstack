@@ -10,3 +10,26 @@
   gap: 1rem;
   padding: 1rem;
 }
+
+/* Search Bar */
+.search-bar {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #2d6a4f;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.search-bar:focus {
+  outline: none;
+  border-color: #ffcc00;
+}
+
+/* No Results Message */
+.no-results {
+  font-size: 1.2rem;
+  color: #888;
+  margin-top: 20px;
+}
